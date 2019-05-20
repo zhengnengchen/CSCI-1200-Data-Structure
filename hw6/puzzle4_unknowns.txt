@@ -1,0 +1,10 @@
+board 8 7
+rows 7 0 5 2 3 4 1 6
+cols 6 2 4 3 5 1 7 
+unknown
+unknown
+unknown
+unknown
+unknown
+unknown
+unknown

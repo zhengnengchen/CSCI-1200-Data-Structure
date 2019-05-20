@@ -1,0 +1,7 @@
+board 4 5
+rows 4 0 2 1
+cols 1 2 1 2 1
+cruiser
+destroyer
+submarine
+submarine

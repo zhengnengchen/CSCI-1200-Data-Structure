@@ -1,0 +1,4 @@
+load-connections small_connection.txt
+load-locations small_location.txt
+print-degrees
+print-degree-histogram

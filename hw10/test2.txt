@@ -1,0 +1,26 @@
+add-job 914 704210420
+add-job 958 704310575
+add-job 1108 704486833
+add-job 1112 704546830
+add-job 1138 704643106
+add-job 1146 704671530
+print-by-urgent
+print-by-time
+remove-next-urgent
+print-by-urgent
+print-by-time
+remove-next-urgent
+print-by-urgent
+print-by-time
+remove-next-urgent
+print-by-urgent
+print-by-time
+remove-next-urgent
+print-by-urgent
+print-by-time
+remove-next-urgent
+print-by-urgent
+print-by-time
+remove-next-urgent
+print-by-urgent
+print-by-time

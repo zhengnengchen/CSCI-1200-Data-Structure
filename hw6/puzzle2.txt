@@ -1,0 +1,10 @@
+board 7 13
+rows 7 6 5 4 3 2 1
+cols 7 0 6 0 5 0 4 0 3 0 2 0 1
+submarine
+destroyer
+tanker
+cargo
+carrier
+battleship
+cruiser

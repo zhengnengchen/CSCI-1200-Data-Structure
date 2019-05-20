@@ -1,0 +1,13 @@
+board 10 10
+rows 3 2 0 4 1 2 4 0 3 1
+cols 2 2 2 0 4 4 2 1 2 1
+submarine
+submarine
+submarine
+submarine
+destroyer
+destroyer
+destroyer
+cruiser
+cruiser
+battleship

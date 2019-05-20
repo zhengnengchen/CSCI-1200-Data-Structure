@@ -1,0 +1,30 @@
+Mike Scroggins 9 1 10 8 2 10 8 2 9 1 10 8 1 10 10 10 10
+Bill O'Neill 9 1 8 1 10 10 10 10 10 10 10 10 10 10
+Tommy Jones 7 2 8 2 8 1 8 2 10 8 1 9 1 10 7 2 10 9 1
+Bill O'Neill 9 1 8 2 10 10 9 1 9 1 10 10 9 1 9 0
+Jason Couch 10 9 1 9 1 10 8 2 8 0 9 1 9 1 10 10 8 2
+Tommy Jones 10 10 10 10 10 10 9 1 10 9 1 9 1 7
+Mike Scroggins 9 1 10 10 10 9 1 10 10 9 1 10 9 1 9
+Bill O'Neill 9 1 8 2 7 3 6 4 10 10 10 9 1 7 2 9 0
+Mike Edwards 10 8 2 9 1 10 10 5 4 10 10 8 2 10 10 7
+Chris Barnes 10 10 9 1 9 1 10 8 2 10 9 1 10 9 1 7
+Brian LeClair 10 8 2 8 2 10 9 1 10 10 8 2 7 1 9 1 10
+Robert Smith 10 10 9 1 10 10 8 1 10 10 10 10 8 1
+Tommy Jones 10 7 3 10 10 8 2 10 10 9 0 10 9 1 8
+Jason Belmonte 10 10 10 8 2 9 1 8 1 7 2 9 1 10 9 1 7
+Andres Gomez 8 1 10 8 2 9 1 10 8 2 10 10 7 1 9 1 10
+Patrick Allen 10 9 1 10 8 2 10 9 1 10 6 4 9 1 10 9 1
+Jack Jurek 7 3 10 10 10 9 1 10 10 10 6 4 10 10 10
+Dave D'Entremont 10 10 10 5 2 9 1 7 1 9 1 7 3 9 1 9 0
+Norm Duke 9 1 10 9 1 7 1 10 7 1 6 4 10 10 10 10 10
+Walter_Ray Williams_Jr 9 1 10 10 8 2 9 1 10 6 3 10 9 1 10 10 6
+Parker Bohn_III 10 10 10 10 10 10 9 1 10 10 10 8 2
+Nathan Bohr 9 1 8 1 10 9 1 10 8 2 10 10 9 1 9 1 7
+Michael Machuga 7 0 9 1 10 7 2 10 8 0 6 1 8 2 10 10 7 3
+David Beres 10 10 7 3 9 1 10 8 2 9 1 5 3 9 1 9 1 6
+Jason Couch 9 1 10 7 3 7 3 9 1 10 10 9 1 9 1 10 10 10
+Peter Weber 10 5 3 9 1 7 2 10 9 1 9 1 9 1 10 10 10 10
+Ronnie Russell 7 3 7 2 10 10 9 1 8 1 10 10 10 8 2 9
+Jason Wojnar 10 9 1 9 1 9 1 7 3 6 2 10 10 10 10 8 2
+Anthony Jordan 8 1 10 10 10 8 2 9 1 9 1 10 8 1 8 2 9
+PJ Haggerty 10 8 2 8 2 9 1 10 6 2 9 1 8 2 9 1 10 7 1

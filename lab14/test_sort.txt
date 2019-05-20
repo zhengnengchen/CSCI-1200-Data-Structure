@@ -1,0 +1,11 @@
+antelope
+buffalo
+cat
+cat
+cat
+donkey
+elephant
+frog
+giraffe
+giraffe
+hippo

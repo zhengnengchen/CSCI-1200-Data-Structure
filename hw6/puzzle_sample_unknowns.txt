@@ -1,0 +1,8 @@
+board 4 5
+rows ? 0 2 1
+cols 1 2 1 ? 1
+cruiser
+destroyer
+submarine
+unknown
+constraint 0 2 <

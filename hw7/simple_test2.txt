@@ -1,0 +1,12 @@
+load-connections simple_connection.txt
+load-locations simple_location.txt
+all-users-within-distance 1 0.2
+all-users-within-distance 1 175.0
+all-users-within-distance 1 500.0
+friends-within-distance 1 0.2
+friends-within-distance 1 175.0
+friends-within-distance 1 500.0
+friends-with-degree 1 1
+friends-with-degree 3 2
+nodes-within-ID-range 3 1
+nodes-within-ID-range 3 2

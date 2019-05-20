@@ -1,0 +1,56 @@
+UQ 6 jobs:
+	Job: "6" priority: 1146 time: Thu Apr 30 22:05:30 1992 GMT (704671530)
+	Job: "4" priority: 1112 time: Wed Apr 29 11:27:10 1992 GMT (704546830)
+	Job: "5" priority: 1138 time: Thu Apr 30 14:11:46 1992 GMT (704643106)
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+	Job: "3" priority: 1108 time: Tue Apr 28 18:47:13 1992 GMT (704486833)
+	Job: "2" priority: 958 time: Sun Apr 26 17:49:35 1992 GMT (704310575)
+TQ 6 jobs:
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+	Job: "2" priority: 958 time: Sun Apr 26 17:49:35 1992 GMT (704310575)
+	Job: "3" priority: 1108 time: Tue Apr 28 18:47:13 1992 GMT (704486833)
+	Job: "4" priority: 1112 time: Wed Apr 29 11:27:10 1992 GMT (704546830)
+	Job: "5" priority: 1138 time: Thu Apr 30 14:11:46 1992 GMT (704643106)
+	Job: "6" priority: 1146 time: Thu Apr 30 22:05:30 1992 GMT (704671530)
+UQ 5 jobs:
+	Job: "5" priority: 1138 time: Thu Apr 30 14:11:46 1992 GMT (704643106)
+	Job: "4" priority: 1112 time: Wed Apr 29 11:27:10 1992 GMT (704546830)
+	Job: "2" priority: 958 time: Sun Apr 26 17:49:35 1992 GMT (704310575)
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+	Job: "3" priority: 1108 time: Tue Apr 28 18:47:13 1992 GMT (704486833)
+TQ 5 jobs:
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+	Job: "2" priority: 958 time: Sun Apr 26 17:49:35 1992 GMT (704310575)
+	Job: "3" priority: 1108 time: Tue Apr 28 18:47:13 1992 GMT (704486833)
+	Job: "4" priority: 1112 time: Wed Apr 29 11:27:10 1992 GMT (704546830)
+	Job: "5" priority: 1138 time: Thu Apr 30 14:11:46 1992 GMT (704643106)
+UQ 4 jobs:
+	Job: "4" priority: 1112 time: Wed Apr 29 11:27:10 1992 GMT (704546830)
+	Job: "3" priority: 1108 time: Tue Apr 28 18:47:13 1992 GMT (704486833)
+	Job: "2" priority: 958 time: Sun Apr 26 17:49:35 1992 GMT (704310575)
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+TQ 4 jobs:
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+	Job: "2" priority: 958 time: Sun Apr 26 17:49:35 1992 GMT (704310575)
+	Job: "3" priority: 1108 time: Tue Apr 28 18:47:13 1992 GMT (704486833)
+	Job: "4" priority: 1112 time: Wed Apr 29 11:27:10 1992 GMT (704546830)
+UQ 3 jobs:
+	Job: "3" priority: 1108 time: Tue Apr 28 18:47:13 1992 GMT (704486833)
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+	Job: "2" priority: 958 time: Sun Apr 26 17:49:35 1992 GMT (704310575)
+TQ 3 jobs:
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+	Job: "2" priority: 958 time: Sun Apr 26 17:49:35 1992 GMT (704310575)
+	Job: "3" priority: 1108 time: Tue Apr 28 18:47:13 1992 GMT (704486833)
+UQ 2 jobs:
+	Job: "2" priority: 958 time: Sun Apr 26 17:49:35 1992 GMT (704310575)
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+TQ 2 jobs:
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+	Job: "2" priority: 958 time: Sun Apr 26 17:49:35 1992 GMT (704310575)
+UQ 1 jobs:
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+TQ 1 jobs:
+	Job: "1" priority: 914 time: Sat Apr 25 14:00:20 1992 GMT (704210420)
+UQ 0 jobs:
+TQ 0 jobs:

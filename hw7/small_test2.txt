@@ -1,0 +1,14 @@
+load-connections small_connection.txt
+load-locations small_location.txt
+all-users-within-distance 440 27.9
+all-users-within-distance 59181 100.0
+all-users-within-distance 59181 1.2
+friends-within-distance 440 30
+friends-within-distance 3799481003 30
+friends-within-distance 59181 100.0
+friends-with-degree 3799481003 1
+friends-with-degree 2258594758 1
+friends-with-degree 2258594758 6
+nodes-within-ID-range 3799481003 0
+nodes-within-ID-range 3958578120 1000000000
+nodes-within-ID-range 5 1000000000

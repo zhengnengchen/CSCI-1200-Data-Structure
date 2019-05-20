@@ -1,0 +1,7 @@
+board 9 9
+rows 8 1 2 2 2 2 2 1 8
+cols 8 1 2 2 2 2 2 1 8
+tanker
+tanker
+tanker
+tanker

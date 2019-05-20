@@ -1,0 +1,16 @@
+board 9 9
+rows 6 2 7 1 5 1 7 2 6
+cols 6 2 7 1 5 1 7 2 6
+submarine
+submarine
+submarine
+submarine
+submarine
+carrier
+carrier
+carrier
+carrier
+cruiser
+cruiser
+cruiser
+cruiser

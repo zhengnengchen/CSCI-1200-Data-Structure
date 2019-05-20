@@ -1,0 +1,12 @@
+Solution:
+cruiser    0 0 horizontal
+submarine  0 4
+submarine  2 1
+destroyer  2 3 vertical
++-----+
+|<X> o|4
+|     |0
+| o ^ |2
+|   v |1
++-----+
+ 12121

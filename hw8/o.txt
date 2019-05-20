@@ -1,0 +1,56 @@
+TemplateTest() complete!
+
+SmallTreeCopyTest() complete!
+
+Tree is empty.
+Tree is empty.
+EmptyTreeTest() complete!
+
+RealTreeTestNoPrint() complete!
+
+		1
+	2
+		2
+3
+		3
+	4,5
+		4
+		5,6
+
+3
+2	4,5
+1	2	3	4	5,6
+
+	1,2
+3,5
+	3,4
+	5,6
+
+3,5
+1,2	3,4	5,6
+
+RealTreeTestPrint() complete!
+=============
+			1
+		7
+			7,10
+	16
+			16
+		23,25
+			23
+			25,28
+32
+			32
+		37
+			37,39
+	40
+			40
+		43
+			43,45
+=============
+			32
+		16			40
+	7		23,25							37		43
+1	7,10		16	23	25,28		32	37,39		40	43,45
+
+ExtraCreditTest() complete!

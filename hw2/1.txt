@@ -1,0 +1,23 @@
+Rank based on total strikes:
+Sally Jones         12
+George Smith         6
+Betty Smith          2
+Fred Adams           1
+
+Rank based on total strikes and spares:
+Sally Jones         12
+George Smith        10
+Betty Smith          6
+Fred Adams           3
+
+Rank based on average bonus gathered after strikes:
+Sally Jones    16.6667
+George Smith   10.1667
+Betty Smith          9
+Fred Adams           4
+
+Rank based on average bonus gathered after spares:
+George Smith   10.1667
+Betty Smith          9
+Fred Adams           4
+Sally Jones          0

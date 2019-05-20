@@ -1,0 +1,14 @@
+User ID 440 does not have a recorded location.
+User IDs within 100 km of user 59181:
+ 37 km: 5 2258594758
+There are no users within 1.2 km of user 59181
+User ID 440 does not have a recorded location.
+There is no user with friends and ID 3799481003
+Friends within 100 km of user 59181:
+ 37.3949 km: 2258594758
+There is no user with friends and ID 3799481003
+User 2258594758 has 2 friend(s) with degree 1: 5 59181
+User 2258594758 has 0 friend(s) with degree 6
+There is no user with the requested ID
+There are no users with an ID within +/-1000000000 of 3958578120
+Users with an ID within +/-1000000000 of 5: 440 8961 59181
