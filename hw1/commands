@@ -1,4 +1,4 @@
-clang++ hw1.cpp -o hw1 -Wall
+clang++ -Wall hw1.cpp -o hw1
 
 ./hw1 example.txt e16l.txt 16 flush_left
 ./hw1 example.txt e16r.txt 16 flush_right
